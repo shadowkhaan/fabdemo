@@ -1,0 +1,5 @@
+Main-Class: nas.lab.samples.JsonDemo
+Class-Path: lib/gson-2.10.1.jar
+Manifest-Version: 1.0
+Built-By: Niyas Ahamed S
+Created-By: 19.0.1

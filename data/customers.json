@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "Jhonny Depp",
+    "age": 45,
+    "country": "United States",
+    "interests": [
+      "Travelling",
+      "Drawing",
+      "Working on challenges"
+    ]
+  },
+  {
+    "firstName": "Davy Jones",
+    "age": 100,
+    "country": "Costa Rica",
+    "interests": [
+      "Travelling",
+      "Drawing",
+      "Working on challenges"
+    ]
+  }
+]

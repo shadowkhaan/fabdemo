@@ -1,0 +1,4 @@
+Main-Class: nas.lab.samples.PrimeNumbers
+Manifest-Version: 1.0
+Built-By: Niyas Ahamed S
+Created-By: 19.0.1
